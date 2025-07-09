@@ -9,7 +9,7 @@ More information can be found here.
 
 [https://rust-lang.github.io/rustup/installation/other.html]()
 
-If you prefer not to install Rust, I can provide a prebuilt binary for Windows, macOS, and Linux.
+If you prefer not to install Rust, see the [prebuilt binaries](https://github.com/spalk-tech/spalk-tech-test/releases).
 
 The commands I have been using to test it with my directory structure are:
 ```bash
